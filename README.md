@@ -1,45 +1,131 @@
-# Hi, I'm Pappu Kumar 👋
+<h1 align="center">Hi 👋, I'm Pappu Kumar</h1>
+<h3 align="center">Aspiring Software Engineer | Java Developer | Cloud & DevOps Learner | AI Automation Enthusiast</h3>
 
-🎓 B.Tech Information Technology Student at Rajkiya Engineering College, Banda
-
-💻 Passionate about Software Development, Cloud Computing, and DevOps.
-
-## About Me
-
-- Currently learning Java, Data Structures & Algorithms, and AWS Cloud Computing
-- Volunteer at Student Developer Club (SDC), REC Banda
-- Interested in Cloud Computing, DevOps, and Backend Development
-- Content Creator with 3.6K+ YouTube Subscribers
-
-## Technical Skills
-
-- Java
-- Data Structures & Algorithms
-- HTML, CSS
-- Git & GitHub
-- AWS Cloud Computing (Learning)
-
-## Current Focus
-
-- Solving DSA problems using Java
-- AWS Cloud Practitioner
-- Building Java Projects
-- Learning DevOps Fundamentals
-
-## Featured Projects
-
-### Develop-a-VR
-A VR application that helps students verify the lens formula for a combination of lenses.
-
-### Web Development Basic Projects
-Collection of beginner-friendly web development projects built using HTML and CSS.
-
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/immpappu/
-- GitHub: https://github.com/ImmPappu
-- YouTube: https://youtube.com/@PeditzVerse
+<p align="center">
+Passionate about building scalable software, cloud solutions, and automation workflows.
+</p>
 
 ---
 
-*"Consistency beats intensity."*
+## 👨‍💻 About Me
+
+🎓 B.Tech in Information Technology at Rajkiya Engineering College, Banda
+
+💻 Passionate about Software Development, Backend Development, Cloud Computing, DevOps, and AI Automation.
+
+🚀 Currently improving my problem-solving skills through Data Structures & Algorithms while building practical cloud and automation projects.
+
+🌱 Currently Learning
+- Data Structures & Algorithms (Java)
+- DevOps
+- Docker & Kubernetes
+- CI/CD
+- AWS Cloud
+- Backend Development
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript (Basics)
+
+### Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
+
+### Cloud & DevOps
+- AWS
+- Linux
+- Git
+- GitHub
+- Docker (Learning)
+- Kubernetes (Learning)
+- CI/CD (Learning)
+
+### Automation
+- n8n
+- Gemini API
+- Google Sheets API
+- Google Drive API
+- YouTube Data API
+
+### Tools
+- IntelliJ IDEA
+- VS Code
+- GitHub
+- Canva
+- Photoshop
+- DaVinci Resolve
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Powered YouTube Automation
+
+Automated YouTube publishing workflow using n8n and multiple APIs.
+
+**Tech Stack**
+- n8n
+- Gemini API
+- Google Drive API
+- Google Sheets API
+- Telegram API
+- YouTube Data API
+
+---
+
+### 📸 Photo Studio Automation
+
+Automates passport photo generation by removing backgrounds, adjusting colors, cropping images, and arranging multiple passport photos into a printable format.
+
+---
+
+### 🥽 Develop-a-VR
+
+VR application built using Unity to help students verify the lens formula through interactive simulations.
+
+---
+
+## 📜 Certifications
+
+- AWS Cloud Practitioner Certification (GeeksforGeeks)
+- Python Certification
+- Google Cloud Arcade Skill Badges
+
+---
+
+## 🎯 Current Goals
+
+- Solve 500+ DSA problems
+- Master DevOps
+- Build production-ready backend projects
+- Deploy applications on AWS
+- Contribute to Open Source
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn  
+https://linkedin.com/in/immpappu
+
+💻 GitHub  
+https://github.com/ImmPappu
+
+📺 YouTube  
+https://youtube.com/@PeditzVerse
+
+---
+
+<p align="center">
+⭐ <b>Building • Learning • Growing</b>
+</p>
