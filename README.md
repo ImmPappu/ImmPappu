@@ -10,26 +10,20 @@ Passionate about building scalable software, cloud solutions, and automation wor
 ## 👨‍💻 About Me
 
 🎓 B.Tech in Information Technology at Rajkiya Engineering College, Banda
-
 💻 Passionate about Software Development, Backend Development, Cloud Computing, DevOps, and AI Automation.
-
 🚀 Currently improving my problem-solving skills through Data Structures & Algorithms while building practical cloud and automation projects.
 
 🌱 Currently Learning
 - Data Structures & Algorithms (Java)
-- DevOps
-- Docker & Kubernetes
-- CI/CD
+- linux
 - AWS Cloud
 - Backend Development
-
 ---
-
 ## 🛠️ Tech Stack
 
 ### Languages
 - Java
-- SQL
+- Python
 - HTML
 - CSS
 - JavaScript (Basics)
@@ -48,7 +42,6 @@ Passionate about building scalable software, cloud solutions, and automation wor
 - GitHub
 - Docker (Learning)
 - Kubernetes (Learning)
-- CI/CD (Learning)
 
 ### Automation
 - n8n
@@ -63,10 +56,7 @@ Passionate about building scalable software, cloud solutions, and automation wor
 - GitHub
 - Canva
 - Photoshop
-- DaVinci Resolve
-
 ---
-
 ## 🚀 Featured Projects
 
 ### 🤖 AI Powered YouTube Automation
@@ -80,7 +70,6 @@ Automated YouTube publishing workflow using n8n and multiple APIs.
 - Google Sheets API
 - Telegram API
 - YouTube Data API
-
 ---
 
 ### 📸 Photo Studio Automation
